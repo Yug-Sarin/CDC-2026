@@ -2,6 +2,10 @@ import pandas as pd
 import streamlit as st
 from numpy.random import default_rng as rng
 
+st.set_page_config(page_title="Charts")
+
+st.sidebar.header("Charts")
+
 df = pd.read_csv("data.csv")
 
 #Group the data by getting the mean of anxiety, depression, ocd, and insomnia for fav genre

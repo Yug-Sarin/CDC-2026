@@ -1,0 +1,2 @@
+#Code was mostly made by looking through documentation. Very few lines of code were written by AI.
+#Used Claude to double check syntax, and for help by walking us through what steps to take while coding.
